@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cred-wallet-emulator/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/cred-wallet-emulator/static/js/main.210b654a.chunk.js",
+    "main.js.map": "/cred-wallet-emulator/static/js/main.210b654a.chunk.js.map",
+    "runtime-main.js": "/cred-wallet-emulator/static/js/runtime-main.488a2479.js",
+    "runtime-main.js.map": "/cred-wallet-emulator/static/js/runtime-main.488a2479.js.map",
+    "static/js/2.db4be483.chunk.js": "/cred-wallet-emulator/static/js/2.db4be483.chunk.js",
+    "static/js/2.db4be483.chunk.js.map": "/cred-wallet-emulator/static/js/2.db4be483.chunk.js.map",
+    "index.html": "/cred-wallet-emulator/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/cred-wallet-emulator/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.db4be483.chunk.js.LICENSE.txt": "/cred-wallet-emulator/static/js/2.db4be483.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.488a2479.js",
+    "static/js/2.db4be483.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.210b654a.chunk.js"
+  ]
+}
