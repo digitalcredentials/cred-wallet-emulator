@@ -1,6 +1,8 @@
-DCC Wallet Emulator
+### DCC Wallet Emulator
 
-This web page emulates a DCC Wallet.
+A react web app that pretends to be a DCC Wallet.
+
+### **THIS DOES NOT WORK IN SAFARI BECAUSE OF SAME-ORIGIN POLICIES**
 
 It is hopefully self-explanatory once you've opened the Wallet.  This is very rough and ready, and simply meant to provide an easy way to test a DCC issuer without having to run a Wallet on a phone.  
 
