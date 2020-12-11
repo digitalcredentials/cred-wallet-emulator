@@ -2,15 +2,15 @@ DCC Wallet Emulator
 
 This web page emulates a DCC Wallet.
 
-It is hopefully self-explanatory once you've opened the Wallet.  This is very rough and ready simply meant to provide an easy way to test a DCC issuer without having to run a Wallet on a phone.  
+It is hopefully self-explanatory once you've opened the Wallet.  This is very rough and ready, and simply meant to provide an easy way to test a DCC issuer without having to run a Wallet on a phone.  
 
 A version is hosted in Github pages here:
 
-[]()
+[https://digitalcredentials.github.io/cred-wallet-emulator/](https://digitalcredentials.github.io/cred-wallet-emulator/)
 
 It was deployed (and can be redeployed after changes) to Github pages using the 'deploy' script in package.json
 
-But you can of course run your own copy.  Follow the standard Create React App instuctions that follow...
+You can of course run your own copy.  Fork and follow the standard Create React App instuctions that follow...
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
